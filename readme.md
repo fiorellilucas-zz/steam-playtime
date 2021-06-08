@@ -1,4 +1,4 @@
-##How Long to Beat scraper
+## How Long to Beat scraper
 
 This Python program retrieves your games and playtimes
 from the Steam API and compares them to the respective game durations from 
